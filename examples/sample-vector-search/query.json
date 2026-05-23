@@ -1,0 +1,7 @@
+{
+  "query": "What should an operator check first when compressor alarm E-214 appears?",
+  "top_k": 3,
+  "filters": {
+    "equipment_model": "XR-500"
+  }
+}

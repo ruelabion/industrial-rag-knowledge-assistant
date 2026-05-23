@@ -1,0 +1,9 @@
+{
+  "question": "What should an operator check first when compressor alarm E-214 appears?",
+  "answer": "Alarm E-214 indicates a lubrication-related issue. The first check is the lubrication oil level, followed by confirming that the lubrication pump is energized and delivering flow. If pressure stays low, inspect the inlet filter and pressure sensor wiring.",
+  "citations": [
+    "compressor-maintenance-manual-v3.pdf, Section 4.2, Page 18",
+    "field-service-troubleshooting-guide.pdf, Section 2.1, Page 7"
+  ],
+  "confidence": "demo"
+}

@@ -1,0 +1,10 @@
+Document Title: Compressor Maintenance Manual
+Model: XR-500
+Revision: 3.1
+Section: 4.2 Lubrication System Checks
+Page: 18
+
+If alarm E-214 is present, inspect the lubrication oil level before restart.
+Confirm the lubrication pump is energized and delivering flow.
+If pressure remains below threshold for more than 15 seconds, inspect the inlet filter and pressure sensor wiring.
+Do not continue operation until nominal pressure is restored.

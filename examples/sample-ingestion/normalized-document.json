@@ -1,0 +1,16 @@
+{
+  "document_id": "doc-xr500-lubrication-001",
+  "source_file": "compressor-maintenance-manual-v3.pdf",
+  "title": "Compressor Maintenance Manual",
+  "equipment_model": "XR-500",
+  "revision": "3.1",
+  "page_number": 18,
+  "section_title": "4.2 Lubrication System Checks",
+  "text": "If alarm E-214 is present, inspect the lubrication oil level before restart. Confirm the lubrication pump is energized and delivering flow. If pressure remains below threshold for more than 15 seconds, inspect the inlet filter and pressure sensor wiring. Do not continue operation until nominal pressure is restored.",
+  "metadata": {
+    "document_type": "maintenance_manual",
+    "domain": "compressor_support",
+    "language": "en",
+    "public_demo": true
+  }
+}

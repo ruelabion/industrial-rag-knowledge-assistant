@@ -1,0 +1,23 @@
+[
+  {
+    "rank": 1,
+    "chunk_id": "chunk-xr500-001",
+    "score": 0.932,
+    "text": "If alarm E-214 is present, inspect the lubrication oil level before restart. Confirm the lubrication pump is energized and delivering flow.",
+    "citation": "compressor-maintenance-manual-v3.pdf, Section 4.2, Page 18"
+  },
+  {
+    "rank": 2,
+    "chunk_id": "chunk-xr500-002",
+    "score": 0.881,
+    "text": "If pressure remains below threshold for more than 15 seconds, inspect the inlet filter and pressure sensor wiring. Do not continue operation until nominal pressure is restored.",
+    "citation": "compressor-maintenance-manual-v3.pdf, Section 4.2, Page 18"
+  },
+  {
+    "rank": 3,
+    "chunk_id": "chunk-fsg-021",
+    "score": 0.842,
+    "text": "Low lubrication pressure alarms should be checked against oil level, pump status, and filter restriction before equipment restart.",
+    "citation": "field-service-troubleshooting-guide.pdf, Section 2.1, Page 7"
+  }
+]
