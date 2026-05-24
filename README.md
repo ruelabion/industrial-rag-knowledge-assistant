@@ -112,6 +112,8 @@ Optional supporting images:
 - `docs/screenshots/aws-architecture-placeholder.png`
 - Architecture diagram or AWS deployment overview slide
 
+To automate screenshot generation locally, use the Playwright instructions in [docs/screenshots/capture-instructions.md](/Users/ruelabion/Sites/Lightsail_RAGApp/industrial-rag-knowledge-assistant/docs/screenshots/capture-instructions.md).
+
 ## Key Design Principles
 
 - Grounded responses over free-form generation
